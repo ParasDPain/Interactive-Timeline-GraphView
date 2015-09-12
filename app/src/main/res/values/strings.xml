@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Static Frame Testing</string>
+
+    <string name="btn_new_val">Add New Value</string>
+    <string name="btn_next_dataset">Load Linear Set</string>
+    <string name="empty_date">00–000–0000</string>
+    <string name="txt_from">From </string>
+    <string name="txt_to">To </string>
+    <string name="dialog_enter_new_val">Enter New Value</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_value">Value</string>
+</resources>
